@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Alışveriş yapılacak",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "name": "Ders çalışılacak",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Spora gidilecek",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "name": "Eğitime gidilecek",
+      "isDone": true
+    },
+    {
+      "id": 5,
+      "name": "Gorev",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "name": "Gorev",
+      "isDone": false
+    }
+
+  ]
